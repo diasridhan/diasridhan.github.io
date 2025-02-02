@@ -862,16 +862,6 @@ main {
   font-weight: var(--fw-300);
 }
 
-.skill-item {
-  min-width: 20%;
-  scroll-snap-align: start;
-}
-
-.skill-item img {
-  width: 100%;
-  transition: var(--transition-1);
-}
-
 
 
 
